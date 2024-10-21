@@ -16,3 +16,7 @@ The individual efficient frontiers obtained from each scenario are then averaged
 - **Constructing the Resampled Portfolio**:
 For a given risk level, the portfolio on the resampled efficient frontier is obtained by averaging the portfolio weights across the different optimized portfolios from the simulations.
 This results in portfolios that are less sensitive to the original input estimation errors and are expected to perform better out-of-sample (i.e., in real market conditions).
+
+<p align="center">
+  <img src="https://github.com/codebyvictor/Fashion-Industry-Sentiment-Analysis/blob/dae51fdf17629f99c7052b169e85e7978bd67285/sustainability.png">
+</p>
